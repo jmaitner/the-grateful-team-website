@@ -131,9 +131,9 @@
     "participantID": 4904,
     "displayName": "Elizabeth Pomfret",
     "avatarImageURL": "https://donordrivecontent.com/wishamile/images/$avatars$/constituent_FFBD9D47-A839-E001-9318AD809F927844.jpg?v=1779309863207",
-    "sumDonations": 300.0,
+    "sumDonations": 400.0,
     "fundraisingGoal": 500.0,
-    "numDonations": 5
+    "numDonations": 6
   },
   {
     "participantID": 5109,
@@ -147,9 +147,9 @@
     "participantID": 4886,
     "displayName": "Ethan Pomfret",
     "avatarImageURL": "https://donordrivecontent.com/wishamile/images/$avatars$/constituent_FCE2E571-D153-C678-073EE0D774AC9ABF.jpg?v=1779309863207",
-    "sumDonations": 300.0,
+    "sumDonations": 400.0,
     "fundraisingGoal": 1500.0,
-    "numDonations": 4
+    "numDonations": 5
   },
   {
     "participantID": 5091,
@@ -426,7 +426,7 @@
   {
     "participantID": 5125,
     "displayName": "Teodoro Vecchio",
-    "avatarImageURL": null,
+    "avatarImageURL": "https://donordrivecontent.com/wishamile/images/$avatars$/constituent_29EF417B-0F4E-6A6B-29A57A98ACAE31B9.jpg?v=1779309863207",
     "sumDonations": 50.0,
     "fundraisingGoal": 3000.0,
     "numDonations": 1
