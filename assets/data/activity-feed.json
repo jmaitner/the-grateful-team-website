@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-06-12T10:22:38Z",
+  "updatedAt": "2026-06-12T15:27:36Z",
   "donations": [
+    {
+      "displayName": "Raquel Huber",
+      "amount": 50.0,
+      "recipientName": "Kiersten Schulte",
+      "donorIsRecipient": false,
+      "isRegFee": false,
+      "createdDateUTC": "2026-06-12T15:21:26.610+0000"
+    },
+    {
+      "displayName": "Mike Maine",
+      "amount": 120.0,
+      "recipientName": "Jackson Maitner",
+      "donorIsRecipient": false,
+      "isRegFee": false,
+      "createdDateUTC": "2026-06-12T13:58:34.680+0000"
+    },
     {
       "displayName": "The Rider Family",
       "amount": 100.0,
@@ -784,22 +800,6 @@
       "donorIsRecipient": false,
       "isRegFee": false,
       "createdDateUTC": "2026-05-30T00:23:46.140+0000"
-    },
-    {
-      "displayName": "Kristine Smith",
-      "amount": 30.0,
-      "recipientName": "Anna Cook",
-      "donorIsRecipient": false,
-      "isRegFee": false,
-      "createdDateUTC": "2026-05-29T23:32:16.327+0000"
-    },
-    {
-      "displayName": "A supporter",
-      "amount": 50.0,
-      "recipientName": "Georgina Hill",
-      "donorIsRecipient": false,
-      "isRegFee": false,
-      "createdDateUTC": "2026-05-29T19:00:08.223+0000"
     }
   ],
   "participants": [
