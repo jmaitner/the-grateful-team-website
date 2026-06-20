@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-06-20T04:11:36Z",
+  "updatedAt": "2026-06-20T09:26:58Z",
   "donations": [
+    {
+      "displayName": "Nick Jaros",
+      "amount": 75.0,
+      "recipientName": "Anthony Lazzaro",
+      "donorIsRecipient": false,
+      "isRegFee": false,
+      "createdDateUTC": "2026-06-20T04:25:44.217+0000"
+    },
     {
       "displayName": "Thomas Lorentzen",
       "amount": 100.0,
@@ -792,14 +800,6 @@
       "donorIsRecipient": false,
       "isRegFee": false,
       "createdDateUTC": "2026-06-08T13:43:59.100+0000"
-    },
-    {
-      "displayName": "Mary & Patrick Flannery",
-      "amount": 50.0,
-      "recipientName": "Kiersten Schulte",
-      "donorIsRecipient": false,
-      "isRegFee": false,
-      "createdDateUTC": "2026-06-08T13:43:21.397+0000"
     }
   ],
   "participants": [
