@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-06-24T09:40:17Z",
+  "updatedAt": "2026-06-24T14:43:11Z",
   "donations": [
+    {
+      "displayName": "Connor Bernhard",
+      "amount": 100.0,
+      "recipientName": "Luis Vecchio",
+      "donorIsRecipient": false,
+      "isRegFee": false,
+      "createdDateUTC": "2026-06-24T14:37:32.137+0000"
+    },
+    {
+      "displayName": "Charles Layden",
+      "amount": 100.0,
+      "recipientName": "Luis Vecchio",
+      "donorIsRecipient": false,
+      "isRegFee": false,
+      "createdDateUTC": "2026-06-24T12:37:17.967+0000"
+    },
     {
       "displayName": "Scott Vogel",
       "amount": 50.0,
@@ -784,22 +800,6 @@
       "donorIsRecipient": false,
       "isRegFee": false,
       "createdDateUTC": "2026-06-13T20:46:12.650+0000"
-    },
-    {
-      "displayName": "Mandi Hyson",
-      "amount": 15.0,
-      "recipientName": "Elizabeth Pomfret",
-      "donorIsRecipient": false,
-      "isRegFee": false,
-      "createdDateUTC": "2026-06-13T19:11:10.970+0000"
-    },
-    {
-      "displayName": "Rachelle Geurink",
-      "amount": 50.0,
-      "recipientName": "Ethan Pomfret",
-      "donorIsRecipient": false,
-      "isRegFee": false,
-      "createdDateUTC": "2026-06-13T19:02:32.100+0000"
     }
   ],
   "participants": [
