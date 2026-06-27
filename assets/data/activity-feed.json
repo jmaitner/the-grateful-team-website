@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-06-27T03:57:36Z",
+  "updatedAt": "2026-06-27T08:43:11Z",
   "donations": [
+    {
+      "displayName": "Jason Reese",
+      "amount": 500.0,
+      "recipientName": "David Dirksen",
+      "donorIsRecipient": false,
+      "isRegFee": false,
+      "createdDateUTC": "2026-06-27T06:58:35.587+0000"
+    },
     {
       "displayName": "A supporter",
       "amount": 100.0,
@@ -792,14 +800,6 @@
       "donorIsRecipient": false,
       "isRegFee": false,
       "createdDateUTC": "2026-06-16T23:22:57.750+0000"
-    },
-    {
-      "displayName": "Berg Stieve",
-      "amount": 100.0,
-      "recipientName": "Jackson Maitner",
-      "donorIsRecipient": false,
-      "isRegFee": false,
-      "createdDateUTC": "2026-06-16T21:13:45.797+0000"
     }
   ],
   "participants": [
