@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-06-30T14:30:13Z",
+  "updatedAt": "2026-06-30T16:25:35Z",
   "donations": [
+    {
+      "displayName": "Jenna Bosscher",
+      "amount": 30.0,
+      "recipientName": "Lauren Froman",
+      "donorIsRecipient": false,
+      "isRegFee": false,
+      "createdDateUTC": "2026-06-30T15:12:57.487+0000"
+    },
+    {
+      "displayName": "Susan Lindemulder",
+      "amount": 100.0,
+      "recipientName": "Lauren Milligan",
+      "donorIsRecipient": false,
+      "isRegFee": false,
+      "createdDateUTC": "2026-06-30T14:40:56.983+0000"
+    },
     {
       "displayName": "Kathy Meyers",
       "amount": 50.0,
@@ -460,7 +476,7 @@
     {
       "displayName": "Billy Parks",
       "amount": 250.0,
-      "recipientName": "The Grateful Team",
+      "recipientName": "Anthony Lazzaro",
       "donorIsRecipient": false,
       "isRegFee": false,
       "createdDateUTC": "2026-06-26T04:52:44.267+0000"
@@ -784,22 +800,6 @@
       "donorIsRecipient": false,
       "isRegFee": false,
       "createdDateUTC": "2026-06-21T18:18:19.277+0000"
-    },
-    {
-      "displayName": "Luis Vecchio",
-      "amount": 100.0,
-      "recipientName": "Luis Vecchio",
-      "donorIsRecipient": false,
-      "isRegFee": false,
-      "createdDateUTC": "2026-06-21T16:23:21.440+0000"
-    },
-    {
-      "displayName": "Luis Vecchio",
-      "amount": 20.0,
-      "recipientName": "Luis Vecchio",
-      "donorIsRecipient": false,
-      "isRegFee": false,
-      "createdDateUTC": "2026-06-21T16:09:50.407+0000"
     }
   ],
   "participants": [
