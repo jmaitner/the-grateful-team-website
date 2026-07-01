@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-07-01T04:22:29Z",
+  "updatedAt": "2026-07-01T09:59:16Z",
   "donations": [
+    {
+      "displayName": "KwangHo Lee",
+      "amount": 500.0,
+      "recipientName": "Stanislaw Krzyzanowski",
+      "donorIsRecipient": false,
+      "isRegFee": false,
+      "createdDateUTC": "2026-07-01T07:40:32.313+0000"
+    },
     {
       "displayName": "Zane LaCasse",
       "amount": 50.0,
@@ -792,14 +800,6 @@
       "donorIsRecipient": true,
       "isRegFee": false,
       "createdDateUTC": "2026-06-22T17:19:16.530+0000"
-    },
-    {
-      "displayName": "Lauren Froman",
-      "amount": 20.0,
-      "recipientName": "Jess Mata",
-      "donorIsRecipient": false,
-      "isRegFee": false,
-      "createdDateUTC": "2026-06-22T16:20:21.540+0000"
     }
   ],
   "participants": [
