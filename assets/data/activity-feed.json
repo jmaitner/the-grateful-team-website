@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-07-02T09:22:07Z",
+  "updatedAt": "2026-07-02T14:13:28Z",
   "donations": [
+    {
+      "displayName": "William Laffrey",
+      "amount": 100.0,
+      "recipientName": "Charlie Wondergem",
+      "donorIsRecipient": false,
+      "isRegFee": false,
+      "createdDateUTC": "2026-07-02T14:07:17.803+0000"
+    },
+    {
+      "displayName": "Kurt simon",
+      "amount": 150.0,
+      "recipientName": "Brad Johnson",
+      "donorIsRecipient": false,
+      "isRegFee": false,
+      "createdDateUTC": "2026-07-02T11:58:03.457+0000"
+    },
     {
       "displayName": "Marisa Kahnt",
       "amount": 50.0,
@@ -784,22 +800,6 @@
       "donorIsRecipient": false,
       "isRegFee": false,
       "createdDateUTC": "2026-06-25T18:07:55.453+0000"
-    },
-    {
-      "displayName": "Elizabeth Pomfret",
-      "amount": 5.0,
-      "recipientName": "Ethan Pomfret",
-      "donorIsRecipient": false,
-      "isRegFee": false,
-      "createdDateUTC": "2026-06-25T17:58:41.467+0000"
-    },
-    {
-      "displayName": "A supporter",
-      "amount": 50.0,
-      "recipientName": "Cole Christians",
-      "donorIsRecipient": false,
-      "isRegFee": false,
-      "createdDateUTC": "2026-06-25T14:14:18.477+0000"
     }
   ],
   "participants": [
