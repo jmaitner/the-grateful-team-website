@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-07-08T16:04:47Z",
+  "updatedAt": "2026-07-08T19:40:59Z",
   "donations": [
+    {
+      "displayName": "Consuelo Shank",
+      "amount": 100.0,
+      "recipientName": "Ally Austin",
+      "donorIsRecipient": false,
+      "isRegFee": false,
+      "createdDateUTC": "2026-07-08T19:40:34.993+0000"
+    },
     {
       "displayName": "A supporter",
       "amount": 25.0,
@@ -792,14 +800,6 @@
       "donorIsRecipient": false,
       "isRegFee": false,
       "createdDateUTC": "2026-06-30T04:10:48.323+0000"
-    },
-    {
-      "displayName": "Marc Esquenet",
-      "amount": 500.0,
-      "recipientName": "Charlie Wondergem",
-      "donorIsRecipient": false,
-      "isRegFee": false,
-      "createdDateUTC": "2026-06-30T03:12:49.823+0000"
     }
   ],
   "participants": [
