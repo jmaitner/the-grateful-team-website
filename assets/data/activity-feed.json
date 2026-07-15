@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-07-15T02:51:32Z",
+  "updatedAt": "2026-07-15T08:22:47Z",
   "donations": [
+    {
+      "displayName": "Wendy Schultz",
+      "amount": 30.0,
+      "recipientName": "Ross Kraft",
+      "donorIsRecipient": false,
+      "isRegFee": false,
+      "createdDateUTC": "2026-07-15T05:09:59.657+0000"
+    },
     {
       "displayName": "George Colbert",
       "amount": 250.0,
@@ -792,14 +800,6 @@
       "donorIsRecipient": false,
       "isRegFee": false,
       "createdDateUTC": "2026-07-07T23:41:35.37+0000"
-    },
-    {
-      "displayName": "A supporter",
-      "amount": 10.0,
-      "recipientName": "Tristan Kosmerick",
-      "donorIsRecipient": false,
-      "isRegFee": false,
-      "createdDateUTC": "2026-07-07T21:08:24.510+0000"
     }
   ],
   "participants": [
